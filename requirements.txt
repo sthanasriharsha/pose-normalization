@@ -1,0 +1,7 @@
+torch
+torchvision
+onnxruntime
+opencv-python
+gradio
+numpy
+mediapipe
